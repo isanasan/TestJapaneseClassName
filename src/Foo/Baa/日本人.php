@@ -6,6 +6,6 @@ class 日本人
 {
     public function あいさつ()
     {
-        echo 'こんにちは';
+        echo 'こんにちは' . PHP_EOL;
     }
 }
