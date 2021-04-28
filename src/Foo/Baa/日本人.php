@@ -2,9 +2,9 @@
 
 namespace Isanasan\Test;
 
-class 日本語
+class 日本人
 {
-    public function hello()
+    public function あいさつ()
     {
         echo 'こんにちは';
     }
